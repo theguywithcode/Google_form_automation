@@ -5,7 +5,7 @@ import time
 
 flink = input("Please Enter Link to the Google Form")
 driver = webdriver.Chrome(
-	'C:/Users/mehul/Downloads/chromedriver_win32/chromedriver.exe')
+	'C:/Users/codeguy/Downloads/chromedriver_win32/chromedriver.exe')
 
 
 driver.get(flink)
